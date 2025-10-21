@@ -1,6 +1,6 @@
 # **Model Development (UCI Imports-85 & Laptop Pricing)**
 
-This repository provides a complete Exploratory Data Analysis (EDA) and Model Development workflow for two datasets — the Automobile (Imports-85) dataset from the UCI Machine Learning Repository and a Laptop Pricing dataset.
+This repository provides a complete Model Development workflow for two datasets — the Automobile (Imports-85) dataset from the UCI Machine Learning Repository and a Laptop Pricing dataset.
 
 The project focuses on understanding feature patterns, relationships, and statistical insights through EDA, followed by the development of regression models to predict target variables such as price.
 
