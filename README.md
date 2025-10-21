@@ -89,19 +89,17 @@ R² Score – goodness of fit
 
 Mean Squared Error (MSE) – average squared difference between actual and predicted values
 
-Mean Absolute Error (MAE) – average absolute difference
-
 Prediction and Decision Making:
 Use model insights to guide feature importance analysis, price prediction, and data-driven decision-making.
 
 # 📊 Outcome
 
-✅ Developed and compared multiple regression models (Simple Linear, Multiple Linear, and Polynomial) for predictive analysis.
-✅ Visualized model performance through regression, residual, and distribution plots to evaluate fit quality and detect bias or variance issues.
-✅ Implemented Polynomial Regression with pipelines to efficiently handle non-linear feature relationships and automate the modeling process.
-✅ Assessed model accuracy using key statistical metrics — R², MSE, and MAE — for in-sample evaluation.
-✅ Derived insights into feature importance, helping guide decisions related to pricing and performance factors.
-✅ Built a reusable modeling pipeline applicable to other structured datasets for continuous model experimentation and optimization.
+- Developed and compared multiple regression models (Simple Linear, Multiple Linear, and Polynomial) for predictive analysis.
+- Visualized model performance through regression, residual, and distribution plots to evaluate fit quality and detect bias or variance issues.
+- Implemented Polynomial Regression with pipelines to efficiently handle non-linear feature relationships and automate the modeling process.
+- Assessed model accuracy using key statistical metrics — R², MSE, and MAE — for in-sample evaluation.
+- Derived insights into feature importance, helping guide decisions related to pricing and performance factors.
+- Built a reusable modeling pipeline applicable to other structured datasets for continuous model experimentation and optimization.
 
 # 🧰 Tools & Libraries
 
